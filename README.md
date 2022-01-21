@@ -3,7 +3,7 @@
 ### Fullstack and Blockchain developer with strong knowledge and hands-on experience in <br />
 
 ✅    Solidity, Infura, Hardhat, Truffle, Rust <br />
-✅    React, NextJs, JS/TS, Web3, Ethersjs <br />
+✅    React, NextJs, JS/TS, Vue.js, Web3, Ethersjs, D3.js <br />
 ✅    DeFi, Dex Vault from Uniswap, PancakeSwap on multichain(Ethereum, BSC, Polygon, Avalanche, etc) <br />
 ✅    NFT marketplaces, Opensea APIs, SDK, Thegraph, Moralis API, Ox API, Etherscan APIs <br />
 ✅    GameFi (Play 2 Earn Games) <br />
