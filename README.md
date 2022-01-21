@@ -55,6 +55,9 @@
     <img alt="React Native" src="https://img.shields.io/badge/-ReactNative-007ACC?style=flat&logo=react&logoColor=white" />
   </a>
   <a href="#">
+    <img alt="Ionic" src="https://img.shields.io/badge/-Ionic-239120?style=flat&logo=ionic&logoColor=white" />
+  </a>
+  <a href="#">
     <img alt="Laravel" src="https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white" />
   </a>
   <a href="#">
