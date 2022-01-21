@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+### Fullstack and Blockchain developer with strong knowledge and hands-on experience in <br />
+
+✅    Solidity, Infura, Hardhat, Truffle, Rust <br />
+✅    React, NextJs, JS/TS, Web3, Ethersjs <br />
+✅    DeFi, Dex Vault from Uniswap, PancakeSwap on multichain(Ethereum, BSC, Polygon, Avalanche, etc) <br />
+✅    NFT marketplaces, Opensea APIs, SDK, Thegraph, Moralis API, Ox API, Etherscan APIs <br />
+✅    GameFi (Play 2 Earn Games) <br />
+
 <h2>Languages & Tools</h2>
 
 
@@ -42,6 +50,9 @@
   </a>
   <a href="#">
     <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" />
+  </a>
+  <a href="#">
+    <img alt="React Native" src="https://img.shields.io/badge/-ReactNative-007ACC?style=flat&logo=reactnative&logoColor=white" />
   </a>
   <a href="#">
     <img alt="Laravel" src="https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white" />
