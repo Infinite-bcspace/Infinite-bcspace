@@ -2,7 +2,7 @@
 
 ### Fullstack and Blockchain developer with strong knowledge and hands-on experience in <br />
 
-<div>
+<div align="center" height="300">
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" />
 
   ✨    Solidity, Infura, Hardhat, Truffle, Rust <br />
@@ -13,8 +13,9 @@
 
 </div>
 
+<h2>Languages & Tools</h2>
+
 <div>
-  <h2>Languages & Tools</h2>
 
   <a href="#">
     <img alt="Bitcoin" src="https://img.shields.io/badge/Bitcoin-ab790d?style=flat&logo=bitcoin&logoColor=white" />
