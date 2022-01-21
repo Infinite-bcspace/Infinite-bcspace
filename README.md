@@ -13,10 +13,9 @@
 
 </div>
 
-<h2>Languages & Tools</h2>
-
-
 <div>
+  <h2>Languages & Tools</h2>
+
   <a href="#">
     <img alt="Bitcoin" src="https://img.shields.io/badge/Bitcoin-ab790d?style=flat&logo=bitcoin&logoColor=white" />
   </a>
