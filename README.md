@@ -3,7 +3,7 @@
 ### Fullstack and Blockchain developer with strong knowledge and hands-on experience in <br />
 
 <div>
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400"  height="150" />
+  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="300"  height="150" />
 
   ✨    Solidity, Infura, Hardhat, Truffle, Rust <br />
   ✨    React, NextJs, JS/TS, Vue.js, Web3, Ethersjs, D3.js <br />
