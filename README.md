@@ -1,6 +1,6 @@
 
-<h2 style="border-bottom: 1px solid #333333;"><img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">Hi, Fullstack and Blockchain developer with strong knowledge and hands-on experience in</h2> <br />
-<p>Hi, I am an organized, collaborative, and highly skilled full-stack engine developer with 8+ years of professional experience in dynamic and deadline-driven work environments in software development across various industries, with the 5 most recent years focused on React and TypeScript. He is well-respected amongst industry-leading companies as a skilled developer who truly understands the client infrastructure and pain points. I also have the hands-on, technical aptitude needed to design and build out solutions.<p><br />
+<h2 style="border-bottom: 1px solid #333333;"><img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">Hi, Fullstack and Blockchain developer with strong knowledge and hands-on experience in</h2>
+<p>Hi, I am an organized, collaborative, and highly skilled full-stack engine developer with 8+ years of professional experience in dynamic and deadline-driven work environments in software development across various industries, with the 5 most recent years focused on React and TypeScript. He is well-respected amongst industry-leading companies as a skilled developer who truly understands the client infrastructure and pain points. I also have the hands-on, technical aptitude needed to design and build out solutions.<p>
 <div>
   <p><b>My repertoire:</b></p>
   ✨    Solidity, Infura, Hardhat, Truffle, Rust <br />
