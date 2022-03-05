@@ -1,16 +1,20 @@
-### 👋 Welcome to my profile 👋
 
-### Fullstack and Blockchain developer with strong knowledge and hands-on experience in <br />
-
+<h2 style="border-bottom: 1px solid #333333;"><img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">Hi, Fullstack and Blockchain developer with strong knowledge and hands-on experience in</h2> <br />
+<p>Hi, I am an organized, collaborative, and highly skilled full-stack engine developer with 8+ years of professional experience in dynamic and deadline-driven work environments in software development across various industries, with the 5 most recent years focused on React and TypeScript. He is well-respected amongst industry-leading companies as a skilled developer who truly understands the client infrastructure and pain points. I also have the hands-on, technical aptitude needed to design and build out solutions.<p><br />
 <div>
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="300"  height="150" />
-
+  <p><b>My repertoire:</b></p>
   ✨    Solidity, Infura, Hardhat, Truffle, Rust <br />
   ✨    React, NextJs, JS/TS, Vue.js, Web3, Ethersjs, D3.js <br />
   ✨    DeFi, Dex Vault from Uniswap, PancakeSwap on multichain(Ethereum, BSC, Polygon, Avalanche, etc) <br />
   ✨    NFT marketplaces, Opensea APIs, SDK, Thegraph, Moralis API, Ox API, Etherscan APIs <br />
-  ✨    GameFi (Play 2 Earn Games) <br />
-
+  ✨    GameFi (Play 2 Earn Games) <br /><br />
+  <p><b>Connect with me</b></p>
+  <ul>
+    <li>💬 Telegram: <a href="https://t.me/QualityWork">@QualityWork</a></li>
+    <li>💬 Skype: <a href="https://join.skype.com/uX5oHkrKARrd">Blockchain Expt</a></li>
+    <li>💬 Discord: <a href="https://discord.gg/YGeuPrH7">Infinite</a></li>
+  </ul><br />
+  <img src="https://camo.githubusercontent.com/9eb3fdcaa648566c6a055c75fc17dbaf3849b11ede8019397a30d2092fdcd3be/68747470733a2f2f7374617469632e7769787374617469632e636f6d2f6d656469612f3262653163655f38363435363739303038343534313865626664363165323937363337343634647e6d76322e676966" alt="" />
 </div>
 
 <h2>Languages & Tools</h2>
@@ -21,7 +25,7 @@
     <img alt="Bitcoin" src="https://img.shields.io/badge/Bitcoin-ab790d?style=flat&logo=bitcoin&logoColor=white" />
   </a>
   <a href="#">
-    <img alt="Solidity" src="https://github.com/BCDev727/BCDev727/blob/main/icons/solidity.png" />
+    <img alt="Solidity" src="https://github.com/BCDev727/BCDev727/raw/main/icons/solidity.png" />
   </a>
   <a href="#">
     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E" />
